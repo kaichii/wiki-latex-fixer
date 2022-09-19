@@ -2,7 +2,7 @@
 // @name         Wiki Latex Fixer
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Fix wiki broken latex
+// @description  Fix wikipedia broken latex
 // @author       kaichi
 // @match        https://*.wikipedia.org/**
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wikipedia.org
